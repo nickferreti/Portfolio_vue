@@ -39,11 +39,11 @@
               <div class="body">
                 <div class="post-title">
                   <a>
-                    Share My Knowledge
+                    Compartilhar meus conhecimentos
                     <br />
-                    Research Skills
+                    e minhas skills
                     <br />
-                    Makes More Employable
+                    podem ajudar o proximo
                   </a>
                 </div>
               </div>
