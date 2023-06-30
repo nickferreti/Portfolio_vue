@@ -13,7 +13,7 @@ export default [
     tech3:
       "https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white",
 
-    live: "https://personal-portfolio-2102f.web.app/",
+    live: "https://portfolio-vue-six-sable.vercel.app/",
     code: "https://github.com/nickferreti/portfolio_vue",
   },
 
