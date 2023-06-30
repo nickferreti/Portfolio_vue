@@ -132,7 +132,7 @@
         </router-link>
 
         <router-link
-          to="/projects"
+          to="/projetos"
           class="flex flex-col items-center justify-center">
           <div
             class="flex items-center hover:no-underline mt-1 text-gray-900 rounded-lg dark:text-white hover:bg-blue-100 dark:hover:bg-gray-700"
