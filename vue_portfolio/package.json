@@ -3,9 +3,9 @@
     "version": "0.1.0",
     "private": true,
     "scripts": {
-        "serve": "vue-cli-service serve",
-        "build": "vue-cli-service build",
-        "lint": "vue-cli-service lint"
+        "serve": "./node_modules/\\@vue/cli-service/bin/vue-cli-service.js serve --open",
+        "build": "./node_modules/\\@vue/cli-service/bin/vue-cli-service.js build",
+        "lint": "./node_modules/\\@vue/cli-service/bin/vue-cli-service.js lint"
     },
     "dependencies": {
         "core-js": "^3.8.3",
@@ -48,11 +48,6 @@
             "parser": "@babel/eslint-parser"
         },
         "rules": {}
-    },
-    "scripts": {
-        "serve": "./node_modules/\\@vue/cli-service/bin/vue-cli-service.js serve --open",
-        "build": "./node_modules/\\@vue/cli-service/bin/vue-cli-service.js build",
-        "lint": "./node_modules/\\@vue/cli-service/bin/vue-cli-service.js lint"
     },
     "browserslist": [
         "> 1%",
