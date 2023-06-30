@@ -83,8 +83,11 @@
             filiais da empresa.
           </p>
 
-          <router-link to="/projects" class="btn btn-primary">
+          <router-link to="/projetos" class="btn btn-primary">
             Meus Projetos
+          </router-link>
+          <router-link to="/contato" style="margin-left: 6px;" class="btn btn-primary ">
+            Contato
           </router-link>
         </div>
         <div class="col-lg-6 py-3 wow zoomIn">

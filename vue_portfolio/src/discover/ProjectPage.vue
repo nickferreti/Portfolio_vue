@@ -12,11 +12,11 @@
                 <li class="breadcrumb-item">
                   <router-link to="/">Home</router-link>
                 </li>
-                <li class="breadcrumb-item active">Projects</li>
+                <li class="breadcrumb-item active">Projetos</li>
               </ul>
             </nav>
             <p class="text-center text-2xl font-semibold text-green-600">
-              MyProject
+              Meus Projetos
             </p>
             <div class="divider mx-auto"></div>
           </div>
@@ -32,7 +32,7 @@
             <div class="card-blog">
               <div class="header">
                 <div class="entry-footer">
-                  <div class="post-author">Welcome to the Projects</div>
+                  <div class="post-author">Seja bem vindo ao meus projetos</div>
                   <a href="#" class="post-date"></a>
                 </div>
               </div>
@@ -83,14 +83,14 @@
               <a
                 :href="project[i].live"
                 class="btn text-lg hover:bg-green-100 hover:underline hover:font-medium">
-                Live
+                Site
                 <span class="mai-chevron-forward text-sm"></span>
               </a>
 
               <a
                 :href="project[i].code"
                 class="btn text-lg hover:bg-purple-100 hover:font-medium">
-                Source Code
+                Codigo Fonte
                 <span class="mai-chevron-forward text-sm"></span>
               </a>
             </div>
@@ -99,7 +99,7 @@
       </div>
     </div>
 
-    <Footer />
+    <Footer/>
   </div>
 </template>
 

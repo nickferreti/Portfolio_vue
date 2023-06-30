@@ -3,51 +3,27 @@
     <div class="container">
       <div class="row align-items-center">
         <div class="col-lg-6 py-3 wow fadeInUp">
-          <h2 class="title-section">Contact information</h2>
+          <h2 class="title-section">Informações de contato</h2>
           <div class="divider"></div>
-          <p>
-            Great genius takes shape by contact with another great genius,
-            <br />
-            but, less by assimilation than by friction.
-          </p>
 
           <ul class="contact-list">
             <li>
-              <div class="icon"><span class="mai-map"></span></div>
-              <div class="content">123 Main Street, Seoul, South Korea</div>
+              <div class="content"><a href="mailto:nickrferreti6@gmail.com">nickrferreti6@gmail.com</a></div>
+
             </li>
             <li>
-              <div class="icon"><span class="mai-mail"></span></div>
-              <div class="content"><a href="#">aaron08889@gmail.com</a></div>
+              <div class="content"><a>+55 (48) 98878-0074</a></div>
+
             </li>
             <li>
-              <div class="icon"><span class="mai-phone-portrait"></span></div>
-              <div class="content"><a href="#">+8210 5818 2222</a></div>
+              <div class="content" ><a href="https://www.linkedin.com/in/nickolas-ferreti-752993212/">LinkedIn</a></div>
+
+            </li>
+            <li>
+              <div class="content"><a href="https://github.com/nickferreti">GitHub</a></div>
+
             </li>
           </ul>
-        </div>
-        <div class="col-lg-6 py-3 wow fadeInUp">
-          <div class="subhead">Contact Me</div>
-          <h2 class="title-section">Get In Touch</h2>
-          <div class="divider"></div>
-
-          <form action="#">
-            <div class="py-2">
-              <input type="text" class="form-control" placeholder="Full name" />
-            </div>
-            <div class="py-2">
-              <input type="text" class="form-control" placeholder="Email" />
-            </div>
-            <div class="py-2">
-              <textarea
-                rows="6"
-                class="form-control"
-                placeholder="Enter message"></textarea>
-            </div>
-            <button type="submit" class="btn btn-primary rounded-pill mt-4">
-              Send Message
-            </button>
-          </form>
         </div>
       </div>
     </div>
@@ -69,4 +45,9 @@ export default {
 };
 </script>
 
-<style></style>
+<style>
+a:hover {
+  background-color: rgb(0, 238, 127);
+  border-radius: 7px;
+}
+</style>

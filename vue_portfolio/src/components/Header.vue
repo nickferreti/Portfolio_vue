@@ -16,6 +16,7 @@
               e melhorando cada vez mais minhas habilidades.
             </p>
           </div>
+          
           <div class="col-lg-6 wow zoomIn">
             <div
               class="m-3 lg:m-3 p-1 lg:p-5">
