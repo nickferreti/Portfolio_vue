@@ -1,21 +1,24 @@
 <template>
-
+  <v-app>
+    <v-main>
+      <mainPage />
+    </v-main>
+  </v-app>
 </template>
 
 <script lang="ts">
-import { defineComponent } from "vue";
+import Vue from "vue";
+import mainPage from "./components/mainPage.vue";
 
-export default defineComponent({
+export default Vue.extend({
   name: "App",
 
   components: {
-    
+    mainPage,
   },
 
-  data() {
-    return {
-      //
-    };
-  },
+  data: () => ({
+    //
+  }),
 });
 </script>
