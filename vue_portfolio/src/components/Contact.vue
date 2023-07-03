@@ -44,10 +44,3 @@ export default {
   },
 };
 </script>
-
-<style>
-a:hover {
-  background-color: rgb(0, 238, 127);
-  border-radius: 7px;
-}
-</style>
