@@ -1,7 +1,22 @@
 export default [
   {
-    name: "Portfólio Pessoal",
+    name: "The pasta place",
     id: 1,
+    content:
+      "Site de um restaurante de comida italiana usando React",
+    image:
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-167f5.appspot.com/o/TPP.png?alt=media&token=b7930031-2e53-4f6b-ae9d-26bd9c405f8b",
+    tech1:
+      "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB",
+    tech2:
+      "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white",
+
+    live: "https://the-pasta-place.vercel.app/?vercelToolbarCode=goaAH7TBzYsOIUV",
+    code: "https://github.com/nickferreti/the_pasta_place",
+  },
+  {
+    name: "Portfólio Pessoal",
+    id: 2,
     content:
       "Portfolio pessoal feito usando Vue.js, Firebase e bootstrap.",
     image:
@@ -19,7 +34,7 @@ export default [
 
   {
     name: "Ferreti studies",
-    id: 2,
+    id: 3,
     content:
       "Projeto de estudos focado em React.js e typescript",
     image:
@@ -34,7 +49,7 @@ export default [
 
   {
     name: "Analise populacional",
-    id: 3,
+    id: 4,
     content:
       "Projeto simples usando analise de dados com python",
     image:
