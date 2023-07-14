@@ -5,7 +5,7 @@ export default [
     content:
       "Site de um restaurante de comida italiana usando React",
     image:
-      "https://firebasestorage.googleapis.com/v0/b/portfolio-167f5.appspot.com/o/TPP.png?alt=media&token=b7930031-2e53-4f6b-ae9d-26bd9c405f8b",
+      "https://firebasestorage.googleapis.com/v0/b/portfolio-167f5.appspot.com/o/TPP%20atualizado.png?alt=media&token=23e76aae-4e11-450e-bb34-0c4bffdcd86d",
     tech1:
       "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB",
     tech2:
