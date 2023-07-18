@@ -15,7 +15,7 @@ export default [
     code: "https://github.com/nickferreti/the_pasta_place",
   },
   {
-    name: "Portfólio Pessoal",
+    name: "Portfólio Pessoal"
     id: 2,
     content:
       "Portfolio pessoal feito usando Vue.js, Firebase e bootstrap.",
