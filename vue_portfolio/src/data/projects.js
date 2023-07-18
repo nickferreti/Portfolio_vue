@@ -11,6 +11,8 @@ export default [
     tech2:
       "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white",
 
+    live: "https://the-pasta-place.vercel.app/?vercelToolbarCode=goaAH7TBzYsOIUV",
+    code: "https://github.com/nickferreti/the_pasta_place"
   },
   {
     name: "Portfólio Pessoal",
